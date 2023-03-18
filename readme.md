@@ -1,4 +1,4 @@
-# Django Project 1
+# Django Project
 
 This is my first Django project.
 
