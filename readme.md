@@ -1,11 +1,11 @@
-# Django Project
+# Django Project 1
 
-This is my first Django project.
+This website helps you keeping track of you expenses and incomes.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+- Install docker
+- Connect you database
+- Install packages with pip: -r requirements.txt
 
-```bash
-pip install ...
-```
+- The app link is: http://127.0.0.1:8000/dashboard
